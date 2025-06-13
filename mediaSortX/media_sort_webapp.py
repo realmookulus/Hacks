@@ -19,7 +19,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.title("📸💗 MediaSortX – PrincessCore Sorter")
-st.caption("Your dirty little content bin? Fixed. Sorted. Cummed on. 💅")
+st.caption("Your messy content bin? Sorted, cleaned, and zipped with love. 💅")
 
 # --- Constants ---
 IMG_EXTENSIONS = ['.jpg', '.jpeg', '.png', '.bmp', '.webp']
